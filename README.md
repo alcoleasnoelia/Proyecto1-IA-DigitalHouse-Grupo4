@@ -1,4 +1,4 @@
-# Proyecto1-IA-DigitalHouse-Grupo4
+# Proyecto1-IA-DigitalHouse-Grupo2
 Proyecto creado en el marco del programa de Inteligencia Artificial de Digital House
 El trabajo está dividido en 3 partes, de acuerdo a:
 Notebook 1
